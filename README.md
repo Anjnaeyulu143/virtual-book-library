@@ -1,6 +1,6 @@
 # 📚 Virtual Book Library App
 
-A simple and intuitive React app for managing your personal book library. The app allows you to browse books, view detailed information, add books to your library, and search/filter through the list.
+A simple and intuitive React app for managing your personal book library. The app allows you to browse books, view detailed information, add books to your library, remove from the books, and search/filter through the list.
 
 ---
 
@@ -33,7 +33,7 @@ A simple and intuitive React app for managing your personal book library. The ap
 
 ### 📚 MyLibraryPage
 
-- Displays a list of books that have been added to your library.
+- Displays a list of books that have been added to your library, with an option remove it form your library.
 
 ### ♻️ Reusable Components
 
